@@ -1,0 +1,8 @@
+How to run this example:
+1.	Run Ariadne from Python's IDLE
+2.	When asked for a path+name, write down "Example_constantShift/Cuaderno_index", without the quotation marks
+3.	That should create the file "Cuaderno_extragal_vipena_indexed.pdf" within this same folder, where the indices and
+	section hierarchy have been scripted as detailed in Cuaderno_index.txt
+
+*compare the second-to last line from Cuaderno_index in this example and in that within the Example_varyingShift folder, and
+how the line starting by an exclamation mark affects the PDF page onto which the section "El medio intracúmulo" is indexed.
